@@ -1,0 +1,8 @@
+langchain
+sentence-transformers
+groq
+requests
+html2text
+langchain-experimental
+markdownify
+pdfplumber
